@@ -1,0 +1,11 @@
+image: gitpod/workspace-dotnet
+tasks:
+  - init: |
+      echo 'TODO: build project'
+    command: |
+      echo 'TODO: start app'
+vscode:
+  extensions:
+    - muhammad-sammy.csharp
+    - jsw.csharpextensions
+    - tintoy.msbuild-project-tools
